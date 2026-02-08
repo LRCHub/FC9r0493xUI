@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Religious",
+  "base_artist": "NE-YO",
+  "createdAt": "2026-02-08T03:52:06.647229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Religious Blessings - Outro",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/01_Religious_Blessings_-_Outro_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Religious Girls",
+      "artist": "Bass Drum Of Death",
+      "has_synced": false,
+      "path": "select/02_Religious_Girls_Bass_Drum_Of_Death.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Religious Superstition",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/03_Religious_Superstition_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Religious Love",
+      "artist": "R. Kelly",
+      "has_synced": false,
+      "path": "select/04_Religious_Love_R._Kelly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Hard To Be Religious When Certain People Are Never Incinerated By Bolts of Lightning",
+      "artist": "Mayday Parade",
+      "has_synced": true,
+      "path": "select/05_It's_Hard_To_Be_Religious_When_Certain_People_Are_Never_Incinerated_By_Bolts_of__Mayday_Parade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Religious Blessings",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/06_Religious_Blessings_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Religious Views",
+      "artist": "Robert DeLong",
+      "has_synced": false,
+      "path": "select/07_Religious_Views_Robert_DeLong.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Religious / Delicious",
+      "artist": "Charon",
+      "has_synced": false,
+      "path": "select/08_Religious___Delicious_Charon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Religious/Delicious",
+      "artist": "Charon",
+      "has_synced": false,
+      "path": "select/09_Religious_Delicious_Charon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It’s Hard To Be Religious When Certain People Are Never Incinerated By Bolts Of Lightning",
+      "artist": "Mayday Parade",
+      "has_synced": true,
+      "path": "select/10_It’s_Hard_To_Be_Religious_When_Certain_People_Are_Never_Incinerated_By_Bolts_Of__Mayday_Parade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Religious Wars",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/11_Religious_Wars_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Religious Wars",
+      "artist": "Subhumans",
+      "has_synced": true,
+      "path": "select/12_Religious_Wars_Subhumans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Religious Wars",
+      "artist": "Subhumans",
+      "has_synced": true,
+      "path": "select/13_Religious_Wars_Subhumans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Religious",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/14_Religious_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Religious Wind",
+      "artist": "Samantha Crain",
+      "has_synced": false,
+      "path": "select/15_Religious_Wind_Samantha_Crain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Religious Man",
+      "artist": "Mister Loco",
+      "has_synced": false,
+      "path": "select/16_Religious_Man_Mister_Loco.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Religious Burden of Perfection",
+      "artist": "Sinai Beach",
+      "has_synced": false,
+      "path": "select/17_The_Religious_Burden_of_Perfection_Sinai_Beach.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Religious Cancer",
+      "artist": "Nailbomb",
+      "has_synced": false,
+      "path": "select/18_Religious_Cancer_Nailbomb.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Religious",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Religious_Ne-Yo.txt"
+    }
+  ]
+}
